@@ -46,4 +46,5 @@
   </ul>
 </body>
 </html>
-remove file1.txt
+git rm file.txt
+
